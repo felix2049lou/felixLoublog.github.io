@@ -5,7 +5,11 @@
 
 ## 一、直接用 macOS 的随航功能，iPad Pro 上用简悦搭配 Apple Pencil 标注网页
 搭载 M2 及以上芯片的 iPad Pro，配合 Apple Pencil 会有（hover）悬停功能。我手上的M2 iPad Pro正好有此功能。
-只要iPad Pro在Mac设备附近时，开启 macOS 的 Sidecar （随航）功能后，无论是把 iPad Pro 作为 Mac 的屏幕镜像，还是扩展屏幕，都能用 Apple Pencil 控制 Mac 鼠标的位置。仿佛笔就成了没有触屏macOS的mouse，只要 Mac 上的浏览器不是 Safari 和 Firefox，而是安装了简悦插件的 Chrome 浏览器，便可如常对文章进行标注了，有点在书本看书下标注的体验。
+只要iPad Pro在Mac设备附近时，开启 macOS 的 Sidecar （随航）功能后，无论是把 iPad Pro 作为 Mac 的屏幕镜像，还是扩展屏幕，都能用 Apple Pencil 控制 Mac 鼠标的位置。
+
+<img width="200" alt="Screenshot 2025-05-16 at 23 54 23" src="https://github.com/user-attachments/assets/22635963-7ba4-4ef0-b9e3-c86f81c85029" />
+
+仿佛笔就成了没有触屏macOS的mouse，只要 Mac 上的浏览器不是 Safari 和 Firefox，而是安装了简悦插件的 Chrome 浏览器，便可如常对文章进行标注了，有点在书本看书下标注的体验。
 
 ![动画演示](/assets/images/Untitled.gif)
 
