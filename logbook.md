@@ -1,5 +1,8 @@
 嘗試如何用GitHub寫blog
+
 通過豆包學會上傳圖片/gif, 一開始糾結要不要把mov轉成gif，先用shortcuts app試了沒反應，最後問豆包用keynote把mov轉成gif了。（為什麼不能直接展示mov視頻呢？）
+
+這是我問豆包的結果：
 ---
 title: "如何在 GitHub 上创建博客"
 date: 2025-05-18
