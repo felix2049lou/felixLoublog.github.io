@@ -27,7 +27,7 @@
 ## 二、用 Better Display 实现 iPad Pro 竖屏阅读简悦优化过的网页
 用 Better Display 的另一个功能，把 sidecar时的iPad Pro 画面变成竖屏，搭配简悦 插件让我平时躺着床看网页文章仍继续可以标注。
 <img src="assets/images/躺床玩iPad.jpeg" alt="躺床玩iPad.jpeg" width="200" />
-
+<img src="assets/images/竪屏下的simpread.jpeg" alt="竪屏下的simpread.jpeg" width="250" />
 如何令iPad Pro成了竖屏的方法（四个步骤）：
 
 第一步新建虚拟屏
