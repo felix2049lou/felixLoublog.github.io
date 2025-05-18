@@ -11,7 +11,7 @@
 
 仿佛笔就成了没有触屏macOS的mouse，只要 Mac 上的浏览器不是 Safari 和 Firefox，而是安装了简悦插件的 Chrome 浏览器，便可如常对文章进行标注了，有点在书本看书下标注的体验。
 
-![动画演示](/assets/images/Untitled.gif)
+![动画演示](assets/images/demo.gif)
 
 个人用着感觉可能比在 Windows 平板上用笔标注舒服多了（有经验的朋友可以分享一下）。而且不像有些 iPadOS 应用，拿笔的手全放在 iPad Pro 屏幕上时会有误触的情况。
 ### 缺点：
@@ -25,7 +25,10 @@
 <img src="assets/images/關閉顯示器背光燈.png" alt="關閉顯示器背光燈.png" width="250" />
 
 ## 二、用 Better Display 实现 iPad Pro 竖屏阅读简悦优化过的网页
-用 Better Display 的另一个功能，把 sidecar时的iPad Pro 画面变成竖屏，搭配简悦 插件让我平时躺着床看网页文章仍继续可以标注。如何令iPad Pro成了竖屏的方法（四个步骤）：
+用 Better Display 的另一个功能，把 sidecar时的iPad Pro 画面变成竖屏，搭配简悦 插件让我平时躺着床看网页文章仍继续可以标注。
+<img src="assets/images/躺床玩iPad.jpeg" alt="躺床玩iPad.jpeg" width="200" />
+
+如何令iPad Pro成了竖屏的方法（四个步骤）：
 
 第一步新建虚拟屏
 
