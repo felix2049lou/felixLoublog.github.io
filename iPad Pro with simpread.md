@@ -27,9 +27,8 @@
 ## 二、用 Better Display 实现 iPad Pro 竖屏阅读简悦优化过的网页
 用 Better Display 的另一个功能，把 sidecar时的iPad Pro 画面变成竖屏，搭配简悦 插件让我平时躺着床看网页文章仍继续可以标注。
 <img src="assets/images/躺床玩iPad.jpeg" alt="躺床玩iPad.jpeg" width="200" />
-<img src="assets/images/竪屏下的simpread.jpeg" alt="竪屏下的simpread.jpeg" width="250" />
-如何令iPad Pro成了竖屏的方法（四个步骤）：
 
+如何令iPad Pro成了竖屏的方法（四个步骤）：
 第一步新建虚拟屏
 
 <img src="assets/images/第一步新建虛擬屏.png" alt="第一步新建虛擬屏.png" width="500" />
@@ -47,6 +46,8 @@
 <img src="assets/images/第四步串流及旋輚方向.png" alt="第四步串流及旋輚方向.png" width="250" />
 
 不过用 Apple Pencil 没法直接进行标注。这是因为 Better Display 让 iPad Pro 竖屏时采用串流模式显示，Pencil 只能控制 iPad Pro 屏幕上的鼠标，没办法直接控制传输过来的虚拟屏幕鼠标。
+
+<img src="assets/images/竪屏下的simpread.jpeg" alt="竪屏下的simpread.jpeg" width="250" />
 
 ## 最后
 其实成文前我还是很期待iPad上用Orion 浏览器通过简悦设白名单的方法激活简悦功能，这比我要配上MacBook才能用随身使用上方便太多，但很多主流网站即便加入白名单也无法正常使用，这才促使我不断探索其他替代方案。希望分享我的方法后，激起更多用户共同探索更优解，若大家有新发现或更好的方法，欢迎随时交流分享，一起完善在iPad Pro上使用简悦标注网页的体验。
