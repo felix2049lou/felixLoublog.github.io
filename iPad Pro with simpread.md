@@ -18,22 +18,22 @@
 ### 补充：
 我的Mac设备是 M1 版 MacBook Air。在家里，通过Type-C 外接优派 VG2481-4K 显示器上使用。不过这个显示器有点麻烦，用一根 Type-C 连接 MacBook 时，熄屏和 MacBook 充电这两个功能不能单独控制。但最近 macOS 软件Better Display 更新后 ，可以用它的 “关闭屏幕灯” 功能，还能继续给 MacBook 充电。
 
-<img src="assets/images/关闭显示器背光灯.png" alt="关闭显示器背光灯.png" width="200" />
+<img src="assets/images/關閉顯示器背光燈.png" alt="關閉顯示器背光燈.png" width="200" />
 
 ## 二、用 Better Display 实现 iPad Pro 竖屏阅读简悦优化过的网页
 用 Better Display 的另一个功能，把 sidecar时的iPad Pro 画面变成竖屏，搭配简悦 插件让我平时躺着床看网页文章仍继续可以标注。如何令iPad Pro成了竖屏的方法（四个步骤）：
 
 第一步新建虚拟屏
 
-<img src="assets/images/第一步新建虚拟屏.png" alt="第一步新建虚拟屏.png" width="200" />
+<img src="assets/images/第一步新建虛擬屏.png" alt="第一步新建虛擬屏.png" width="200" />
 
 第二步选出你的副屏类型（此处按我需求选择iPad Pro）
 
-<img src="assets/images/第二步选出你的副屏.png" alt="第二步选出你的副屏.png" width="200" />
+<img src="assets/images/第二步選出你的副屏.png" alt="第二步選出你的副屏.png" width="200" />
 
 第三步选择”旋转方向”
 
-<img src="assets/images/第三步旋转方向.png" alt="第三步旋转方向.png" width="200" />
+<img src="assets/images/第三步旋轉方向.png" alt="第三步旋轉方向.png" width="200" />
 
 第四步”虚拟屏幕串流”，把虚拟屏幕串流到iPad Pro，最后再选择”旋转”的方向.
 
