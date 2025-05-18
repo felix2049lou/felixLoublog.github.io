@@ -12,7 +12,11 @@ tags: ["技术", "simpread","ipad Pro","sidecar","apple pencil","BetterDisplay"]
 
 只要iPad Pro在Mac设备附近时，开启 macOS 的 Sidecar （随航）功能后，无论是把 iPad Pro 作为 Mac 的屏幕镜像，还是扩展屏幕，都能用 Apple Pencil 控制 Mac 鼠标的位置。仿佛笔就成了没有触屏macOS的mouse，只要 Mac 上的浏览器不是 Safari 和 Firefox，而是安装了简悦插件的 Chrome 浏览器，便可如常对文章进行标注了，有点在书本看书下标注的体验。
 
-[示范video]
+<video controls width="100%">
+  <source src="img_0415.mov" type="video/mov">
+  <source src="img_0415.webm" type="video/webm">
+  您的浏览器不支持视频播放。
+</video>
 
 个人用着感觉可能比在 Windows 平板上用笔标注舒服多了（有经验的朋友可以分享一下）。而且不像有些 iPadOS 应用，拿笔的手全放在 iPad Pro 屏幕上时会有误触的情况。
 缺点：
