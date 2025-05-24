@@ -3,4 +3,9 @@
 [shorctcuts](https://www.icloud.com/shortcuts/1d56e96f95b2491e88fe9d19f707a5c0)
 只要把iPad Pro靠近Mac，Mac感應到出現隨航（sidecar），運行shortcuts就能自動激活sidecar。
 感覺自己有點走火入魔了（笑😄）
-![video](https://youtube.com/shorts/QVhdUgidcQQ)
+<video src="https://github.com/user-attachments/assets/ccda689e-0285-4fde-afcf-6e017f2b34fa">
+
+
+
+
+
